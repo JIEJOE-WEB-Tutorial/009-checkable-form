@@ -13,7 +13,7 @@
 <br>
 
 ## **Notice⚠️**
-- 效果中的核心逻辑是用的GSAP的timeline方法，这里最好是先去看一下[官方文档](https://gsap.com/docs/v3/GSAP/Timeline)
+- 效果中的核心逻辑是用的GSAP的Timeline方法，这里最好是先去看一下[官方文档](https://gsap.com/docs/v3/GSAP/Timeline)
 - 其中的勾选框打勾和擦除效果是用SVG线段的描边偏移属性实现的，，不清楚的小伙伴可以看这个[视频](https://www.bilibili.com/video/BV1dH4y1n7cF)
 
 
