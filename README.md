@@ -14,6 +14,6 @@
 
 ## **Notice⚠️**
 - 效果中的核心逻辑是用的GSAP的Timeline方法，这里最好是先去看一下[官方文档](https://gsap.com/docs/v3/GSAP/Timeline)
-- 其中的勾选框打勾和擦除效果是用SVG线段的描边偏移属性实现的，详细请参考该[链接](https://github.com/JIEJOE-WEB-Tutorial/011-svg-stroke-animation)
+- 其中的勾选框打勾和擦除效果是用SVG线段的描边动画实现的，详细请参考该[链接](https://github.com/JIEJOE-WEB-Tutorial/011-svg-stroke-animation)
 
 
